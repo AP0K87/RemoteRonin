@@ -1,2 +1,1 @@
-# RemoteRonin
-Bushido Nomad is a portable shell configuration toolkit designed for developers who work remotely or frequently switch between machines. It ensures a consistent and personalized shell experience across all environments.
+RemoteRonin is a comprehensive shell environment toolkit that transforms any Linux host into your portable development cockpit. Designed for remote workers, digital nomads, and new hires, it bundles SSH key management, dotfiles synchronization, VPN/VPC access, cloud CLI helpers, and productivity plugins—so you can log in anywhere and immediately hit your stride.
